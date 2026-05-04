@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Syed Muhammad Attah ur Rehman
 
-### 🚀 Frontend Developer | Exploring AI & n8n Automation
+### 🚀 Frontend Developer | Exploring AI & n8n Automation | Python Developer
 
 
 ## 👨‍💻 About Me

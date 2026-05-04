@@ -25,6 +25,13 @@
 - AI Agents (Basics)
 - API Integrations
 
+  ### Python Development
+- Data Structures & Algorithms (Basics)
+- File Handling in Python
+- OOP (Object-Oriented Programming)
+- Automation Scripts
+- Basic API Handling
+
 ## 📌 What I’m Working On
 - 🔹 AI-powered automation using n8n
 - 🔹 Frontend projects with modern UI

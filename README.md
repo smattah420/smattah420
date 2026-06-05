@@ -17,7 +17,7 @@
 - React.js | Responsive Design
 
 ### Backend & Tools
-- Node.js | Firebase
+- Node.js | Firebase | Mongodb
 - Git & GitHub
 
 ### AI & Automation
